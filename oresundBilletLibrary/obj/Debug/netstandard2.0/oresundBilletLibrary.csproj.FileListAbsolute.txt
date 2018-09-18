@@ -1,0 +1,12 @@
+D:\source\oresundbilletlibrary-HashtagLegend\oresundBilletLibrary\bin\Debug\netstandard2.0\oresundBilletLibrary.deps.json
+D:\source\oresundbilletlibrary-HashtagLegend\oresundBilletLibrary\bin\Debug\netstandard2.0\oresundBilletLibrary.dll
+D:\source\oresundbilletlibrary-HashtagLegend\oresundBilletLibrary\bin\Debug\netstandard2.0\oresundBilletLibrary.pdb
+D:\source\oresundbilletlibrary-HashtagLegend\oresundBilletLibrary\bin\Debug\netstandard2.0\BilletLibrary.dll
+D:\source\oresundbilletlibrary-HashtagLegend\oresundBilletLibrary\bin\Debug\netstandard2.0\BilletLibrary.xml
+D:\source\oresundbilletlibrary-HashtagLegend\oresundBilletLibrary\obj\Debug\netstandard2.0\oresundBilletLibrary.csprojAssemblyReference.cache
+D:\source\oresundbilletlibrary-HashtagLegend\oresundBilletLibrary\obj\Debug\netstandard2.0\oresundBilletLibrary.csproj.CoreCompileInputs.cache
+D:\source\oresundbilletlibrary-HashtagLegend\oresundBilletLibrary\obj\Debug\netstandard2.0\oresundBilletLibrary.AssemblyInfoInputs.cache
+D:\source\oresundbilletlibrary-HashtagLegend\oresundBilletLibrary\obj\Debug\netstandard2.0\oresundBilletLibrary.AssemblyInfo.cs
+D:\source\oresundbilletlibrary-HashtagLegend\oresundBilletLibrary\obj\Debug\netstandard2.0\oresundBilletLibrary.csproj.CopyComplete
+D:\source\oresundbilletlibrary-HashtagLegend\oresundBilletLibrary\obj\Debug\netstandard2.0\oresundBilletLibrary.dll
+D:\source\oresundbilletlibrary-HashtagLegend\oresundBilletLibrary\obj\Debug\netstandard2.0\oresundBilletLibrary.pdb
